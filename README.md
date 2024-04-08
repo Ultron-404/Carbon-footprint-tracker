@@ -19,6 +19,11 @@ Environmental Goals: Setting and achieving environmental goals is made simple wi
 Carbon Offsetting Integration: Recognizing the importance of carbon offsetting in achieving carbon neutrality, the website seamlessly integrates with offsetting programs. Users can explore and participate in carbon offset initiatives directly through the platform, facilitating the balancing of their carbon emissions and contributing to global sustainability efforts.
 
 **Technical Architecture:**
+
+
+
+
+
 ![Carbon-tracker-Tech Architecture](https://github.com/Ultron-404/Carbon-footprint-tracker/assets/106450463/b83d2cdc-fbea-4373-9571-2fab8657b2fd)
 
 **Build & Installation:**
