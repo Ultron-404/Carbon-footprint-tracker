@@ -58,7 +58,7 @@ Despite facing these challenges, our team persevered, dedicating ourselves to ov
 [Carbon footprint tracker_Deck Presentation.pdf](https://github.com/Ultron-404/Carbon-footprint-tracker/files/14909118/Carbon.footprint.tracker_Deck.Presentation.pdf)
 
 **Front-end project link:**
-Link: https://carbon-footprint-tracker-sigma.vercel.app/
+https://carbon-footprint-tracker-sigma.vercel.app/
 
 
 
