@@ -1,0 +1,2 @@
+**Abstract:**
+The Carbon Footprint Tracker Website is a dynamic web Application, that empowers individuals and organizations in monitoring and reducing their carbon footprint.Through its user-friendly interface and advanced data analysis capabilities, Carbon Tracker enables users to track their carbon emissions, identify areas of improvement, and take control of their environmental impact.By tracking specific measures and adopting sustainable practices, users can make informed decisions, implement effective strategies, and contribute to a greener future.
